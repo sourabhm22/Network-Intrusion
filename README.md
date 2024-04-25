@@ -1,2 +1,2 @@
-# Network-Intrusion-Detection
-Network-Intrusion-Detection implemented using XGBoost and DNN.
+# Network-Intrusion
+Network-Intrusion implemented using XGBoost and DNN.
